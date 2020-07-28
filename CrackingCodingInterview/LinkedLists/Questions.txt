@@ -1,0 +1,7 @@
+1. Remove duplicates in linked list 
+    - With buffer - time O(N) 
+    - Without buffer - time O(N2) space O(1)
+    
+2. Get kth last element
+3. Delete given node in the middle
+4. Partition at a node

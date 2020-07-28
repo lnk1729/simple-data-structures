@@ -1,0 +1,7 @@
+Q1. Print all permutations of a string
+Q2. Print all palindrome permutations of a string
+Q3. Compress string. eg: aaaaaabbcccdaa -> a6b2c3da2
+Q4. Check if string has unique characters
+Q5. Urlify a string
+Q6. Rotate NxN matrix
+Q7. Create Zero matrix
